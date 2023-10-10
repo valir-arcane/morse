@@ -3,6 +3,7 @@
 // Description: Morse code to Word and Word to Morse code translator in different languages.
 // GitHub: https://github.com/cyran-kyle
 // Morse code dictionary
+//this is just a comment
 
 import java.util.HashMap;
 import java.util.Map;
